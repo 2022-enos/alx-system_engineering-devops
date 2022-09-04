@@ -1,1 +1,1 @@
-display the contents list of  your current directory in a long format
+Display current directory contents l fmt, numerical and hidden files end .
