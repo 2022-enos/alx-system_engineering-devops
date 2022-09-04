@@ -1,1 +1,1 @@
-Display current directory contents l fmt, numerical and hidden files end .
+displays current directory contents in long format, with user and group IDs displayed numerically and hidden files.
