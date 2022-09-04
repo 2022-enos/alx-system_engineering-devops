@@ -1,1 +1,1 @@
-Create a magic file school.mgc
+Display current directory contents.
