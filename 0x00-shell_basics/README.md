@@ -1,1 +1,1 @@
-a script that lists all files . .. /root in long format
+script that prints the type of the file named iamafile.
